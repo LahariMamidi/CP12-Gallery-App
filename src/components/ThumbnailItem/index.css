@@ -1,0 +1,21 @@
+/* Write your code here. */
+.img-bg {
+  list-style-type: none;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+.image {
+  height: 60px;
+  width: 60px;
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  padding: 0px;
+  outline: none;
+  cursor: pointer;
+}
