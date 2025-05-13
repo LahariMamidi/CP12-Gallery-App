@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CP12-Gallery-App/static/css/main.6d1ff5b5.css",
+    "main.js": "/CP12-Gallery-App/static/js/main.0a6c28a9.js",
+    "static/js/453.f911603c.chunk.js": "/CP12-Gallery-App/static/js/453.f911603c.chunk.js",
+    "index.html": "/CP12-Gallery-App/index.html",
+    "main.6d1ff5b5.css.map": "/CP12-Gallery-App/static/css/main.6d1ff5b5.css.map",
+    "main.0a6c28a9.js.map": "/CP12-Gallery-App/static/js/main.0a6c28a9.js.map",
+    "453.f911603c.chunk.js.map": "/CP12-Gallery-App/static/js/453.f911603c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d1ff5b5.css",
+    "static/js/main.0a6c28a9.js"
+  ]
+}
